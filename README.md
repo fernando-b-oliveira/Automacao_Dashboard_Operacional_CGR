@@ -7,6 +7,13 @@
 
 ---
 
+### ⏱️ Impacto de Negócio & Horas Economizadas (Pé no chão)
+- **Eliminação de Fechamento Manual:** Economia de **~3 a 4 horas semanais** que eram gastas toda sexta-feira consolidando, tratando e cruzando planilhas dispersas enviadas por equipes de campo.
+- **Tempo de Resposta a Anomalias:** Queda de horas para **minutos** na identificação de desvios de pressão e vazão, graças aos alertas visuais do painel em tempo real.
+- **Modo TV na Operação:** Elimina a necessidade de gerar relatórios em PDF estáticos para acompanhamento diário.
+
+---
+
 ## 📌 Visão Geral
 Aplicação analítica moderna desenvolvida para transformar dados operacionais dispersos em planilhas em um centro de comando visual em tempo real. Ideal para salas de controle operacional (CCO) e acompanhamento gerencial.
 
